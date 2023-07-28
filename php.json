@@ -1,0 +1,8 @@
+<?php
+// Enter your code here, enjoy!
+
+
+$granola = array("green", " darkmoss", " fever", " redclean", " russian");
+
+
+echo json_encode($granola);
